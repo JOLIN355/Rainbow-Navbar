@@ -7,7 +7,6 @@ nav{
 
 .black {
     background-color: black;
-    color: white;
 }
 
 .red {
@@ -43,4 +42,14 @@ li {
     display: inline;
     margin-right: 20px;
     font-size: 275%;
+}
+
+a {
+    text-decoration: none;
+    color: black
+}
+
+#other:hover {
+    color: white;
+    text-decoration: underline;
 }
