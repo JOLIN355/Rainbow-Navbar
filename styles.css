@@ -1,0 +1,55 @@
+nav{
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet);
+    padding: 10px;
+}
+
+.black {
+    background-color: black;
+}
+
+.red {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.indigo {
+    background-color: indigo;
+}
+
+.violet {
+    background-color: violet;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    margin-right: 20px;
+    font-size: 275%;
+}
+
+a {
+    text-decoration: none;
+    color: black
+}
+
+#other:hover {
+    color: white;
+    text-decoration: underline;
+}
